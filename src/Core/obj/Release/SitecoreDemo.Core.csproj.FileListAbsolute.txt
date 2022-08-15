@@ -1,0 +1,2 @@
+C:\Projects\Customers\Brother\SitecoreDemo\src\Core\obj\Release\SitecoreDemo.Core.csproj.AssemblyReference.cache
+C:\Projects\Customers\Brother\SitecoreDemo\src\Core\obj\Release\SitecoreDemo.Core.csproj.CoreCompileInputs.cache
