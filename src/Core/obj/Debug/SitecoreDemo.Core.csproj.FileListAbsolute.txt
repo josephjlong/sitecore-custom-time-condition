@@ -1,9 +1,0 @@
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\bin\Debug\SitecoreDemo.Core.dll.config
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\bin\Debug\SitecoreDemo.Core.dll
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\bin\Debug\SitecoreDemo.Core.pdb
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\bin\Debug\System.Buffers.dll
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\obj\Debug\SitecoreDemo.Core.csproj.CoreCompileInputs.cache
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\obj\Debug\SitecoreDemo.Core.csproj.CopyComplete
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\obj\Debug\SitecoreDemo.Core.dll
-C:\Projects\Customers\Brother\SitecoreDemo\src\Core\obj\Debug\SitecoreDemo.Core.pdb
